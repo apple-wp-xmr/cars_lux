@@ -1,2 +1,2 @@
 # cars_lux
-https://devdmitrydev.github.io/wordpressDevD/
+https://wordpressDevD.github.io/cars_lux/
